@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Moirangthem Subhaluxmi
-- 👀 I’m interested in learning new things, watching web series, kdrama, kpop
-- 🌱 I’m currently learning Angular and Javascript
-- 📫 reach me at smoirngthm@gmail.com
+# Hi, I'm Moirangthem Subhaluxmi 👋
 
-<!---
-MoirangthemSubhaluxmi/MoirangthemSubhaluxmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+React Native Developer with 4 years of experience building and launching production-ready mobile applications. Passionate about creating scalable, user-friendly apps and exploring modern technologies.
+
+## Tech Stack
+- React Native
+- React.js
+- Angular
+- JavaScript
+- TypeScript
+
+## Currently Exploring
+- React Native
+- Generative AI
+
+## Connect With Me
+📧 smoirngthm@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/moirangthem-subhaluxmi-a38324200
